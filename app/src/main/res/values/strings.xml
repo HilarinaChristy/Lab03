@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TUTORIAL2_2022</string>
+    <string name="textView1_hEADING">Calculate Age</string>
+    <string name="editTextNumber1_Age">Ex : 1980</string>
+    <string name="button_Submit">CALCULATE</string>
+    <string name="message">You are %d years old</string>
+    <string name="error1">Please enter a valid year!</string>
+</resources>
